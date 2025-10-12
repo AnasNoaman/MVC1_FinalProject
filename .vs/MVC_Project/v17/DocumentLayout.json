@@ -3,24 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\DELL\\Desktop\\MVC PROJECT\\MVC_Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0200C422-6033-4AB7-9A8E-5512266FB0E3}|MVC_Project\\MVC_Project.csproj|c:\\users\\dell\\desktop\\mvc project\\mvc_project\\mvc_project\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0200C422-6033-4AB7-9A8E-5512266FB0E3}|MVC_Project\\MVC_Project.csproj|solutionrelative:mvc_project\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{0200C422-6033-4AB7-9A8E-5512266FB0E3}|MVC_Project\\MVC_Project.csproj|c:\\users\\dell\\desktop\\mvc project\\mvc_project\\mvc_project\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0200C422-6033-4AB7-9A8E-5512266FB0E3}|MVC_Project\\MVC_Project.csproj|solutionrelative:mvc_project\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0200C422-6033-4AB7-9A8E-5512266FB0E3}|MVC_Project\\MVC_Project.csproj|c:\\users\\dell\\desktop\\mvc project\\mvc_project\\mvc_project\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0200C422-6033-4AB7-9A8E-5512266FB0E3}|MVC_Project\\MVC_Project.csproj|solutionrelative:mvc_project\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0200C422-6033-4AB7-9A8E-5512266FB0E3}|MVC_Project\\MVC_Project.csproj|c:\\users\\dell\\desktop\\mvc project\\mvc_project\\mvc_project\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0200C422-6033-4AB7-9A8E-5512266FB0E3}|MVC_Project\\MVC_Project.csproj|solutionrelative:mvc_project\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0200C422-6033-4AB7-9A8E-5512266FB0E3}|MVC_Project\\MVC_Project.csproj|c:\\users\\dell\\desktop\\mvc project\\mvc_project\\mvc_project\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0200C422-6033-4AB7-9A8E-5512266FB0E3}|MVC_Project\\MVC_Project.csproj|solutionrelative:mvc_project\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{0200C422-6033-4AB7-9A8E-5512266FB0E3}|MVC_Project\\MVC_Project.csproj|c:\\users\\dell\\desktop\\mvc project\\mvc_project\\mvc_project\\areas\\user\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0200C422-6033-4AB7-9A8E-5512266FB0E3}|MVC_Project\\MVC_Project.csproj|solutionrelative:mvc_project\\areas\\user\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0200C422-6033-4AB7-9A8E-5512266FB0E3}|MVC_Project\\MVC_Project.csproj|c:\\users\\dell\\desktop\\mvc project\\mvc_project\\mvc_project\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0200C422-6033-4AB7-9A8E-5512266FB0E3}|MVC_Project\\MVC_Project.csproj|solutionrelative:mvc_project\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{0200C422-6033-4AB7-9A8E-5512266FB0E3}|MVC_Project\\MVC_Project.csproj|c:\\users\\dell\\desktop\\mvc project\\mvc_project\\mvc_project\\areas\\user\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0200C422-6033-4AB7-9A8E-5512266FB0E3}|MVC_Project\\MVC_Project.csproj|solutionrelative:mvc_project\\areas\\user\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0200C422-6033-4AB7-9A8E-5512266FB0E3}|MVC_Project\\MVC_Project.csproj|c:\\users\\dell\\desktop\\mvc project\\mvc_project\\mvc_project\\migrations\\20251009104942_inti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0200C422-6033-4AB7-9A8E-5512266FB0E3}|MVC_Project\\MVC_Project.csproj|solutionrelative:mvc_project\\migrations\\20251009104942_inti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0200C422-6033-4AB7-9A8E-5512266FB0E3}|MVC_Project\\MVC_Project.csproj|c:\\users\\dell\\desktop\\mvc project\\mvc_project\\mvc_project\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0200C422-6033-4AB7-9A8E-5512266FB0E3}|MVC_Project\\MVC_Project.csproj|solutionrelative:mvc_project\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0200C422-6033-4AB7-9A8E-5512266FB0E3}|MVC_Project\\MVC_Project.csproj|c:\\users\\dell\\desktop\\mvc project\\mvc_project\\mvc_project\\areas\\user\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0200C422-6033-4AB7-9A8E-5512266FB0E3}|MVC_Project\\MVC_Project.csproj|solutionrelative:mvc_project\\areas\\user\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0200C422-6033-4AB7-9A8E-5512266FB0E3}|MVC_Project\\MVC_Project.csproj|c:\\users\\dell\\desktop\\mvc project\\mvc_project\\mvc_project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{0200C422-6033-4AB7-9A8E-5512266FB0E3}|MVC_Project\\MVC_Project.csproj|solutionrelative:mvc_project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0200C422-6033-4AB7-9A8E-5512266FB0E3}|MVC_Project\\MVC_Project.csproj|c:\\users\\dell\\desktop\\mvc project\\mvc_project\\mvc_project\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0200C422-6033-4AB7-9A8E-5512266FB0E3}|MVC_Project\\MVC_Project.csproj|solutionrelative:mvc_project\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0200C422-6033-4AB7-9A8E-5512266FB0E3}|MVC_Project\\MVC_Project.csproj|c:\\users\\dell\\desktop\\mvc project\\mvc_project\\mvc_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0200C422-6033-4AB7-9A8E-5512266FB0E3}|MVC_Project\\MVC_Project.csproj|solutionrelative:mvc_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0200C422-6033-4AB7-9A8E-5512266FB0E3}|MVC_Project\\MVC_Project.csproj|c:\\users\\dell\\desktop\\mvc project\\mvc_project\\mvc_project\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -29,6 +45,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{0200C422-6033-4AB7-9A8E-5512266FB0E3}|MVC_Project\\MVC_Project.csproj|c:\\users\\dell\\desktop\\mvc project\\mvc_project\\mvc_project\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0200C422-6033-4AB7-9A8E-5512266FB0E3}|MVC_Project\\MVC_Project.csproj|solutionrelative:mvc_project\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0200C422-6033-4AB7-9A8E-5512266FB0E3}|MVC_Project\\MVC_Project.csproj|c:\\users\\dell\\desktop\\mvc project\\mvc_project\\mvc_project\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0200C422-6033-4AB7-9A8E-5512266FB0E3}|MVC_Project\\MVC_Project.csproj|solutionrelative:mvc_project\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0200C422-6033-4AB7-9A8E-5512266FB0E3}|MVC_Project\\MVC_Project.csproj|c:\\users\\dell\\desktop\\mvc project\\mvc_project\\mvc_project\\mvc_project.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0200C422-6033-4AB7-9A8E-5512266FB0E3}|MVC_Project\\MVC_Project.csproj|solutionrelative:mvc_project\\mvc_project.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0200C422-6033-4AB7-9A8E-5512266FB0E3}|MVC_Project\\MVC_Project.csproj|c:\\users\\dell\\desktop\\mvc project\\mvc_project\\mvc_project\\migrations\\20251009104942_inti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0200C422-6033-4AB7-9A8E-5512266FB0E3}|MVC_Project\\MVC_Project.csproj|solutionrelative:mvc_project\\migrations\\20251009104942_inti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0200C422-6033-4AB7-9A8E-5512266FB0E3}|MVC_Project\\MVC_Project.csproj|c:\\users\\dell\\desktop\\mvc project\\mvc_project\\mvc_project\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,30 +70,120 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "bootstrap.esm.js",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\MVC PROJECT\\MVC_Project\\MVC_Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+              "RelativeDocumentMoniker": "MVC_Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\MVC PROJECT\\MVC_Project\\MVC_Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+              "RelativeToolTip": "MVC_Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAABwBAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-10-12T09:38:14.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\MVC PROJECT\\MVC_Project\\MVC_Project\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVC_Project\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\MVC PROJECT\\MVC_Project\\MVC_Project\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MVC_Project\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-12T09:29:47.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\MVC PROJECT\\MVC_Project\\MVC_Project\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MVC_Project\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\MVC PROJECT\\MVC_Project\\MVC_Project\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MVC_Project\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABsDAAAAAAAAAAAAAC4DAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-12T09:24:56.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\MVC PROJECT\\MVC_Project\\MVC_Project\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "MVC_Project\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\MVC PROJECT\\MVC_Project\\MVC_Project\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "MVC_Project\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-12T09:24:53.52Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\MVC PROJECT\\MVC_Project\\MVC_Project\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "MVC_Project\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\MVC PROJECT\\MVC_Project\\MVC_Project\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "MVC_Project\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAdAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\MVC PROJECT\\MVC_Project\\MVC_Project\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MVC_Project\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\MVC PROJECT\\MVC_Project\\MVC_Project\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MVC_Project\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T09:16:02.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\MVC PROJECT\\MVC_Project\\MVC_Project\\Program.cs",
+              "RelativeDocumentMoniker": "MVC_Project\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\MVC PROJECT\\MVC_Project\\MVC_Project\\Program.cs",
+              "RelativeToolTip": "MVC_Project\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T08:59:04.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MVC_Project.csproj",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\MVC PROJECT\\MVC_Project\\MVC_Project\\MVC_Project.csproj",
+              "RelativeDocumentMoniker": "MVC_Project\\MVC_Project.csproj",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\MVC PROJECT\\MVC_Project\\MVC_Project\\MVC_Project.csproj",
+              "RelativeToolTip": "MVC_Project\\MVC_Project.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-12T08:46:36.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\MVC PROJECT\\MVC_Project\\MVC_Project\\Areas\\User\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MVC_Project\\Areas\\User\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\MVC PROJECT\\MVC_Project\\MVC_Project\\Areas\\User\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MVC_Project\\Areas\\User\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-09T11:02:51.933Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\MVC PROJECT\\MVC_Project\\MVC_Project\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "MVC_Project\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\MVC PROJECT\\MVC_Project\\MVC_Project\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "MVC_Project\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAAC0AAAASAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\MVC PROJECT\\MVC_Project\\MVC_Project\\Areas\\User\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MVC_Project\\Areas\\User\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\MVC PROJECT\\MVC_Project\\MVC_Project\\Areas\\User\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MVC_Project\\Areas\\User\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-10-09T10:52:48.835Z",
               "EditorCaption": ""
@@ -73,32 +191,31 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\MVC PROJECT\\MVC_Project\\MVC_Project\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "MVC_Project\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\MVC PROJECT\\MVC_Project\\MVC_Project\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "MVC_Project\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-09T10:52:08.366Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\MVC PROJECT\\MVC_Project\\MVC_Project\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "MVC_Project\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\MVC PROJECT\\MVC_Project\\MVC_Project\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "MVC_Project\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAzAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\MVC PROJECT\\MVC_Project\\MVC_Project\\Areas\\User\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVC_Project\\Areas\\User\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\MVC PROJECT\\MVC_Project\\MVC_Project\\Areas\\User\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MVC_Project\\Areas\\User\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-10-09T10:52:02.591Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\MVC PROJECT\\MVC_Project\\MVC_Project\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "MVC_Project\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\MVC PROJECT\\MVC_Project\\MVC_Project\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "MVC_Project\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-10-12T08:55:08.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "20251009104942_inti.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\MVC PROJECT\\MVC_Project\\MVC_Project\\Migrations\\20251009104942_inti.cs",
               "RelativeDocumentMoniker": "MVC_Project\\Migrations\\20251009104942_inti.cs",
@@ -106,12 +223,11 @@
               "RelativeToolTip": "MVC_Project\\Migrations\\20251009104942_inti.cs",
               "ViewState": "AgIAADQAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T10:49:43.14Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-09T10:49:43.14Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 14,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\MVC PROJECT\\MVC_Project\\MVC_Project\\Models\\Product.cs",
               "RelativeDocumentMoniker": "MVC_Project\\Models\\Product.cs",
@@ -119,12 +235,11 @@
               "RelativeToolTip": "MVC_Project\\Models\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T10:44:07.304Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-09T10:44:07.304Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\MVC PROJECT\\MVC_Project\\MVC_Project\\Models\\Category.cs",
               "RelativeDocumentMoniker": "MVC_Project\\Models\\Category.cs",
@@ -132,12 +247,11 @@
               "RelativeToolTip": "MVC_Project\\Models\\Category.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T10:43:45.859Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-09T10:43:45.859Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\MVC PROJECT\\MVC_Project\\MVC_Project\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "MVC_Project\\Data\\ApplicationDbContext.cs",
@@ -145,8 +259,7 @@
               "RelativeToolTip": "MVC_Project\\Data\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T10:41:19.067Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-09T10:41:19.067Z"
             }
           ]
         }
