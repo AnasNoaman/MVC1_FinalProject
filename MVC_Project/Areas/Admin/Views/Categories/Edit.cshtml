@@ -1,0 +1,18 @@
+﻿@model MVC_Project.Models.Category
+<form method="post" action="/Admin/Categories/Update">
+    <div class="card-body">
+        <div class="form-group">
+            
+            <input  type="hidden" class="form-control" id="CtegoryId" name="Id" value="@Model.Id">
+        </div>
+        <div class="form-group">
+            <label for="exampleInputEmail1">Category Name</label>
+            <input type="text" class="form-control" id="CtegoryName" name="Name" value="@Model.Name">
+            <span asp-validation-for="Name" class="text-danger"></span>
+         
+        </div>
+       
+    <div class="card-footer">
+        <button type="submit" class="btn btn-primary">Update</button>
+    </div>
+</form>
